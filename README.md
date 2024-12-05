@@ -3,7 +3,16 @@
 
 1. 운영체제
 - <a href="/1.운영체제/프로세스.md" target="_blank">프로세스</a>
+<!-- _black가 먹지 않음 -->
 
+<details>
+<summary>목차보기</summery>
+
+    - 운영체제
+    - 프로세스
+    - 동기와 비동기
+
+</details>
 
 <br><br><br><br><br><br><br>
 
