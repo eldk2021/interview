@@ -1,6 +1,8 @@
 # 📌 interview
 면접 질문과 답
 
+1. 운영체제
+- <a href="/1.운영체제/프로세스.md" target="_blank">프로세스</a>
 
 
 <br><br><br><br><br><br><br>
