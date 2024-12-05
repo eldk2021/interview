@@ -6,7 +6,7 @@
 <!-- _black가 먹지 않음 -->
 
 <details>
-<summary>프로세스 목차보기</summery>
+<summary>프로세스 목차보기</summary>
 
     - 운영체제
     - 프로세스
